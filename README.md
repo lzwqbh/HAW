@@ -30,11 +30,11 @@ tqdm
 
 ### Quick start
 
-For evaluate HAW-enhanced GAEs:
+For evaluating HAW-enhanced GAEs:
 
 	python ./src/eva_gae.py --data-name cora --model gae --haw 1 --non-uni 0
 
-For evaluate HAW-enhanced WALKPOOL:
+For evaluating HAW-enhanced WALKPOOL:
 
 	python ./src/eva_wp.py --init-representation argva --data-name cora --haw 1 --non-uni 0
 
