@@ -41,7 +41,14 @@ For evaluate HAW-enhanced WALKPOOL:
 ## Reference
 
 
-If you find our work useful in your research, please cite our paper in the future:
+If you find our work useful in your research, please cite our paper:
 
-
+    @inproceedings{li2023preserving,
+     title={Preserving Potential Neighbors for Low-Degree Nodes via Reweighting in Link Prediction},
+     author={Li, Ziwei and Zhou, Yucan and Fan, Haihui and Gu, Xiaoyan and Li, Bo and Meng, Dan},
+     booktitle={International Conference on Neural Information Processing},
+     pages={561--572},
+     year={2023},
+     organization={Springer}
+    }
 
